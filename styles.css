@@ -356,6 +356,7 @@ body {
     margin-top: auto;
     padding-top: 1rem;
     border-top: 1px solid var(--border-color);
+    padding-left: 8px;
 }
 
 /* Projects Section */
@@ -427,6 +428,7 @@ body {
     flex-wrap: wrap;
     gap: 0.5rem;
     margin: 1rem 0;
+    padding-left: 8px;
 }
 
     .project-tech span {
@@ -1163,3 +1165,4 @@ body {
     position: relative;
     overflow: hidden;
 }
+
